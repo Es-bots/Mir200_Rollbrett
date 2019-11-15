@@ -1,8 +1,0 @@
-<launch>
-
-    <node pkg="actions_tutorial" type="goal_to_motion.py"  name="goal_to_motion"/>
-    
-
-    <node pkg="actions_tutorial" type="drehwinkel.py" name="drehwinkel" />
-    
-</launch>
